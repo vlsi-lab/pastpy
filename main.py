@@ -1,7 +1,7 @@
 import subprocess
 import time
 from datetime import date
-  
+    
 schedule = [date(2012, 6, 3), date(2012, 6, 4), date(2012, 6, 5), date(2012, 6, 6),
             date(2012, 6, 10),
             date(2012, 6, 14), date(2012, 6, 15), date(2012, 6, 16), date(2012, 6, 17), date(2012, 6, 18),
